@@ -1,4 +1,3 @@
 # vizdata
 Beginner learning session
-https://miffbiscuit.github.io/vizdata/
-
+https://miffbiscuit.github.io/vizdata
